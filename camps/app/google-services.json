@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401853837391",
+    "project_id": "camps-abcd7",
+    "storage_bucket": "camps-abcd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401853837391:android:5797a2df9721f4bf623a3a",
+        "android_client_info": {
+          "package_name": "com.example.camps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401853837391-en7be1dnr6j4sl846nv7ojjr4lkv4j5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOmOzsd8fnHnoQNfG3JsEuhhoAzqdDA6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401853837391-en7be1dnr6j4sl846nv7ojjr4lkv4j5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
